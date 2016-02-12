@@ -23,8 +23,6 @@ knit        : slidify::knit2slides
 
 3. Future improvements
 
-![Caption for the picture.](premier_league.png)
-
 
 
 --- .class #id 
@@ -70,4 +68,3 @@ Right now, the only thing to filter the results is to compare the dates that you
 
 ### Thanks for your time!
 
---- .class #id 
