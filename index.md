@@ -23,8 +23,6 @@ knit        : slidify::knit2slides
 
 3. Future improvements
 
-![Caption for the picture.](premier_league.png)
-
 
 
 --- .class #id 
@@ -70,8 +68,7 @@ Right now, the only thing to filter the results is to compare the dates that you
 
 ## 3. Future improvements
 
-**Improvements:** until this moment the project offers different data to the user but the one way to improve the information that the user can be interested is to show of an statistical way. Indeed showing different charts or plots can be an advantage to see what happens when there is a derby.
+**Improvements:** until this moment the project offers different data to the user but the one way to improve the information that the user can be interested is to show number of victories, draws or defeats. Furthermore showing different charts or plots can be an advantage to see what happens when there is a derby.
 
 ### Thanks for your time!
 
---- .class #id 
